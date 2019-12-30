@@ -5,6 +5,8 @@ Simple blog made with php & mysqli, JavaScript and bootstrap
    1. Categories
    2. Comment section
    3. Read more section 
+     E.t.c 
+     check the code to see more features
    
 #Notice 
    Admin section Still under construction
